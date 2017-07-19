@@ -6,4 +6,5 @@
 * 路径绘制-DASH<br>
 ![路径绘制-DASH](https://github.com/liangjingdev/PathMeasureTest/raw/master/img/路径绘制-DASH.gif)
 
+* PASH POS TAN<br>
 ![PASHPOSTAN](https://github.com/liangjingdev/PathMeasureTest/raw/master/img/PATHPOSTAN.gif)
